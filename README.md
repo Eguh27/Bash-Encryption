@@ -1,2 +1,2 @@
 # Bash-Encryption
-Enkripsi script bash anda
+Enkripsi script bash & python anda
